@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.39]
+
+### Dependencies
+
+- Upgraded to `store-js@2.4.3`
+
 ## \[2.0.38]
 
 ### Dependencies

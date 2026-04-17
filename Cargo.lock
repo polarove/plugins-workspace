@@ -207,7 +207,7 @@ checksum = "e16d2d3311acee920a9eb8d33b8cbc1787ce4a264e85f964c2404b969bdcd487"
 
 [[package]]
 name = "api"
-version = "2.0.42"
+version = "2.0.43"
 dependencies = [
  "log",
  "serde",
@@ -6664,7 +6664,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-deep-link"
-version = "2.4.8"
+version = "2.4.9"
 dependencies = [
  "dunce",
  "plist",
@@ -6941,7 +6941,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-single-instance"
-version = "2.4.1"
+version = "2.4.2"
 dependencies = [
  "semver",
  "serde",
@@ -6975,7 +6975,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-plugin-store"
-version = "2.4.2"
+version = "2.4.3"
 dependencies = [
  "dunce",
  "serde",

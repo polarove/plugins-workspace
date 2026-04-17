@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.43]
+
+### Dependencies
+
+- Upgraded to `store@2.4.3`
+
 ## \[2.0.42]
 
 ### Dependencies
